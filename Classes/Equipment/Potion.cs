@@ -7,6 +7,11 @@ namespace FirstFantasy.Classes.Equipment
 {
     public class Potion : IDescribable
     {
+        public Potion()
+        {
+
+        }
+
         public string ShowInformation()
         {
             return "This is a strange potion";

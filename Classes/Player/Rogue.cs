@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FirstFantasy.Classes.Player
 {
-    public class Rouge : Character
+    public class Rogue : Character
     {
 
         public override String Taunt()

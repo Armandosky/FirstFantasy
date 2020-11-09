@@ -7,5 +7,11 @@ namespace FirstFantasy.Classes.Equipment
 {
     public class Sword : Weapon
     {
+        public Sword()
+        {
+
+
+        }
     }
+    
 }

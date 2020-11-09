@@ -16,6 +16,7 @@
             <ComboBoxItem Content="Rouge" />
             <ComboBoxItem Content="Wizard" />
         </ComboBox>
+        <Frame Name="mainFrame" Content="Frame" HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="800" Source="/Inicio.xaml" NavigationUIVisibility="Hidden"/>
 
     </Grid>
 </Window>

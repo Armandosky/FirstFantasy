@@ -26,5 +26,5 @@ namespace FirstFantasy.Classes.Player
         {
             return "This is a level "+level+ " character";
         }
-    }
+    }   
 }
