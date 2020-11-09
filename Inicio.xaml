@@ -34,5 +34,6 @@
         <Button Name="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="91,369,0,0" VerticalAlignment="Top" Height="31" Width="124" Click="btnCreate_Click"/>
         <TextBlock Name="txtCharacter" HorizontalAlignment="Left" Height="114" Margin="287,154,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" Foreground="White" FontSize="14"/>
         <TextBlock Name="txtWeapon" HorizontalAlignment="Left" Height="42" Margin="287,279,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" Foreground="White" FontSize="16"/>
+        <Button Name ="btnInventory" Content="Inventory" HorizontalAlignment="Center" Height="31" Margin="0,369,0,0" VerticalAlignment="Top" Width="112"/>
     </Grid>
 </Page>
